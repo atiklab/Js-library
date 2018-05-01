@@ -1,3 +1,5 @@
 # Js-library
 
-jscapture - Screen recorder  [code](https://github.com/mgechev/jscapture)
+jscapture - Screen recorder  [Code](https://github.com/mgechev/jscapture) [Demo](https://mgechev.github.io/jscapture/)
+
+// hello
